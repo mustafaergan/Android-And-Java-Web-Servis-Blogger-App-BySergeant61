@@ -1,0 +1,26 @@
+# Gradle / Android Studio
+*.iml
+.gradle/
+local.properties
+.idea/
+build/
+captures/
+.externalNativeBuild/
+*.apk
+*.aab
+
+# Maven
+target/
+
+# Eclipse / VS Code
+.project
+.classpath
+.settings/
+.vscode/
+
+# Diğer
+*.class
+*.log
+.env
+.DS_Store
+Thumbs.db
